@@ -10470,10 +10470,10 @@ monaco-editor-webpack-plugin@^6.0.0:
   dependencies:
     loader-utils "^2.0.0"
 
-monaco-editor@^0.30.1:
-  version "0.30.1"
-  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.30.1.tgz#47f8d18a0aa2264fc5654581741ab8d7bec01689"
-  integrity sha512-B/y4+b2O5G2gjuxIFtCE2EkM17R2NM7/3F8x0qcPsqy4V83bitJTIO4TIeZpYlzu/xy6INiY/+84BEm6+7Cmzg==
+monaco-editor@^0.50.0:
+  version "0.50.0"
+  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.50.0.tgz#44e62b124c8aed224e1d310bbbe6ffd6d5122413"
+  integrity sha512-8CclLCmrRRh+sul7C08BmPBP3P8wVWfBHomsTcndxg5NRCEPfu/mc2AGU8k37ajjDVXcXFc12ORAMUkmk+lkFA==
 
 monaco-marker-data-provider@^1.0.0:
   version "1.1.1"
