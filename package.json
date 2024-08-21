@@ -62,7 +62,7 @@
     "vite-prod": "NODE_OPTIONS=\"${NODE_OPTIONS:=--max-old-space-size=8000}\" NODE_ENV=production vite build"
   },
   "dependencies": {
-    "@apollo/client": "^3.5.10",
+    "@apollo/client": "^3.11.2",
     "@babel/core": "^7.23.7",
     "@babel/preset-env": "^7.23.7",
     "@csstools/postcss-global-data": "^2.1.1",
