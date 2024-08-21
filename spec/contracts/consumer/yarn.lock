@@ -3080,10 +3080,10 @@ jest-mock@^27.5.1:
     "@jest/types" "^27.5.1"
     "@types/node" "*"
 
-jest-pact@^0.9.1:
-  version "0.9.4"
-  resolved "https://registry.yarnpkg.com/jest-pact/-/jest-pact-0.9.4.tgz#c13f3d28cbe6288bbb0920e6b69857a9e1a042e9"
-  integrity sha512-vmBISe3DSGxOuMnjJJHdK0winrkBSpgD/Z3iMCaBUBBYG9bSPsBfGqBzAF0eYLGmQ7yUaoYlI798e515DGnzQw==
+jest-pact@^0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/jest-pact/-/jest-pact-0.11.1.tgz#f1647a537c365972da9d322e1261083147f8a600"
+  integrity sha512-lpdHsznU+SthRgdee/Kqbk6z0nmieqFh/BuYlFCPD9gsuELpxckXiXX9tvY9OWb3CGDoTMEQFo3R6cPH4JwjKw==
 
 jest-pnp-resolver@^1.2.2:
   version "1.2.2"
