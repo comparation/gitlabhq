@@ -215,7 +215,7 @@
     "string-hash": "1.1.3",
     "style-loader": "^2.0.0",
     "swagger-client": "^3.26.7",
-    "swagger-ui-dist": "^5.14.0",
+    "swagger-ui-dist": "^5.17.14",
     "thread-loader": "^3.0.4",
     "three": "^0.143.0",
     "timeago.js": "^4.0.2",
