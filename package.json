@@ -217,7 +217,7 @@
     "swagger-client": "^3.26.7",
     "swagger-ui-dist": "^5.14.0",
     "thread-loader": "^3.0.4",
-    "three": "^0.143.0",
+    "three": "^0.167.0",
     "timeago.js": "^4.0.2",
     "tippy.js": "^6.3.7",
     "traverse": "^0.6.7",
